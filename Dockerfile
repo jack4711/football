@@ -1,4 +1,4 @@
-# 2. Fix Docker
+# 2. Fix und Feature Dockerfile
 # Kommentar jack4711 hotfix
 
 ARG DOCKER_BASE
